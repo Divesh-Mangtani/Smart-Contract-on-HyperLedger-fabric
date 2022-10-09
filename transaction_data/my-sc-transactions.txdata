@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "myScExists",
+        "transactionLabel": "A test myScExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createMySc",
+        "transactionLabel": "A test createMySc transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readMySc",
+        "transactionLabel": "A test readMySc transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateMySc",
+        "transactionLabel": "A test updateMySc transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteMySc",
+        "transactionLabel": "A test deleteMySc transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
