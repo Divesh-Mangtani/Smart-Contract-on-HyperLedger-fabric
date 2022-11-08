@@ -5,8 +5,9 @@ In this repo, I'll demonstrate on how to create, package, install and instantiat
 - npm v5.x or greater
 - Docker version v17.06.2-ce or greater
 - Docker Compose v1.14.0 or greater
+- `MAKE SURE TO INSTALL ALL THE PREREQUISITES SUGGESTED WHILE WE DOWNLOAD IBM EXTENSION`
 
-#You can check your installed versions by running the following commands from a terminal:
+# You can check your installed versions by running the following commands from a terminal:
 - `node --version`
 - `npm --version`
 - `yo --version`
