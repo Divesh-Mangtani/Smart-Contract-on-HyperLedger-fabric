@@ -14,4 +14,4 @@ In this repo, I'll demonstrate on how to create, package, install and instantiat
 - `docker-compose --version`
 
 # Watch the Demo for better understanding 
-[!](https://drive.google.com/file/d/1Y3SLDfvJwhsppsJHehbbn_yhI4f5Nrbk/view)
+https://drive.google.com/file/d/1Y3SLDfvJwhsppsJHehbbn_yhI4f5Nrbk/view
