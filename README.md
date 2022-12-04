@@ -10,7 +10,6 @@ In this repo, I'll demonstrate on how to create, package, install and instantiat
 # You can check your installed versions by running the following commands from a terminal:
 - `node --version`
 - `npm --version`
-- `yo --version`
 - `docker --version`
 - `docker-compose --version`
 
